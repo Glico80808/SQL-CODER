@@ -1,0 +1,11 @@
+
+Para instalar la base de datos seguir los siguientes pasos:
+
+ 1.Abrir "01_tablas_e_insercion" y ejecutar código
+ 2.Abrir "02_vistas" y ejecutar código
+ 3.Abrir "03_funciones" y ejecutar código
+ 4.Abrir "04_procedimientos" y ejecutar código
+ 5.Abrir "05_triggers" y ejecutar código
+ 6.Abrir "06_TCL" y ejecutar código
+ 7.Abrir "07_DCL" y ejecutar código
+ 8.Abrir "08_backup" y ejecutar código
